@@ -1,1 +1,3 @@
-# CAES1819-UdG-exercise3-mocks
+# Lab exercise 2
+
+More info on Moodle: (not yet)
