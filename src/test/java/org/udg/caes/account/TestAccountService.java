@@ -10,12 +10,11 @@ import mockit.Mocked;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class TestAccount {
+public class TestAccountService {
 
 
   @Test
-  void test(@Tested AccountService as, @Mocked AccountManager am)  {
-
-    
+  void testTransfer(@Tested AccountService as, @Mocked AccountManager am)  {
+    throw new UnsupportedOperationException("Not implemented yet");
   }
 }
